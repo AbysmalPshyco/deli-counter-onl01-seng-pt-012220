@@ -17,6 +17,7 @@ end
 
 def take_a_number(katz_deli, name)
 katz_deli << name
+<<<<<<< HEAD
 puts "Welcome, #{name}. You are number #{katz_deli.length} in line."
 end
 
@@ -30,3 +31,8 @@ end
 end
 
   
+=======
+puts 
+
+end
+>>>>>>> d29cbca49194733848c55881f903e4ceb657b21b
